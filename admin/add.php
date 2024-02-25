@@ -25,13 +25,13 @@
 .jumbotron{
     backdrop-filter: blur(5px);
     background-color: transparent;
-    
+
 }
 .card{
     backdrop-filter: blur(5px);
     background-color: transparent;
     color: white;
-} 
+}
 
 
 </style>
@@ -62,7 +62,7 @@
     <label for="inputAddress">Address</label>
     <input type="text" class="form-control" id="inputAddress" placeholder="1234 Main St"style="background-color: transparent  " required >
   </div>
- 
+
   <div class="form-row">
     <div class="form-group col-md-6">
       <label for="inputCity">City</label>
@@ -71,9 +71,41 @@
     <div class="form-group col-md-4">
       <label for="inputState">State</label>
       <select id="inputState" class="form-control"style="background-color: transparent  " required >
-        <option selected>Choose...</option>
-        <option>...</option>
-      </select>
+      <option selected>Choose...</option>
+                  <option value="Cairo">Cairo</option>
+                  <option value="Alexandria">Alexandria</option>
+                  <option value="Giza">Giza</option>
+                  <option value="Shubra El Kheima">Shubra El Kheima</option>
+                  <option value="Port Said">Port Said</option>
+                  <option value="Suez">Suez</option>
+                  <option value="Luxor">Luxor</option>
+                  <option value="Asyut">Asyut</option>
+                  <option value="Ismailia">Ismailia</option>
+                  <option value="Fayyum">Fayyum</option>
+                  <option value="Zagazig">Zagazig</option>
+                  <option value="Aswan">Aswan</option>
+                  <option value="Damietta">Damietta</option>
+                  <option value="Damanhur">Damanhur</option>
+                  <option value="Minya">Minya</option>
+                  <option value="Beni Suef">Beni Suef</option>
+                  <option value="Hurghada">Hurghada</option>
+                  <option value="Qena">Qena</option>
+                  <option value="Sohag">Sohag</option>
+                  <option value="Sharm El Sheikh">Sharm El Sheikh</option>
+                  <option value="Luxor">Luxor</option>
+                  <option value="Banha">Banha</option>
+                  <option value="Kafr El Sheikh">Kafr El Sheikh</option>
+                  <option value="Mansoura">Mansoura</option>
+                  <option value="Tanta">Tanta</option>
+                  <option value="Zagazig">Zagazig</option>
+                  <option value="Damanhur">Damanhur</option>
+                  <option value="Aswan">Aswan</option>
+                  <option value="Mallawi">Mallawi</option>
+                  <option value="Damietta">Damietta</option>
+                  <option value="Arish">Arish</option>
+                  <option value="El Mahalla El Kubra">El Mahalla El Kubra</option>
+                  <option value="Kom Ombo">Kom Ombo</option>
+                </select>
     </div>
     <div class="form-group col-md-2">
       <label for="inputZip">Zip</label>
@@ -84,7 +116,7 @@
     <div class="form-check">
       <input class="form-check-input" type="checkbox" id="gridCheck">
       <label class="form-check-label" for="gridCheck">
-        remember me 
+        remember me
       </label>
     </div>
   </div>
@@ -92,8 +124,8 @@
 </form>
                 </div>
             </div>
-            
-                  
+
+
                 </div>
              </div>
         </div>

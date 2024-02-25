@@ -8,7 +8,8 @@
 
 <img src="https://github.com/mernaatef28/space-explorers-/blob/main/IMG/screenshots/Screenshot%202024-01-17%20215505.png?raw=true" alt="project-screenshot" width="" height="">
 
-<img src="https://github.com/mernaatef28/space-explorers-/blob/main/IMG/screenshots/editcurrentusers.png?raw=true" alt="project-screenshot" width="" height="">
+<img src="https://github.com/mernaatef28/space-explorers-/blob/main/IMG/screenshots/editcurrentusers.png?raw=true"
+alt="project-screenshot" width="" height="">
 
 <img src="https://github.com/mernaatef28/space-explorers-/blob/main/IMG/screenshots/addatrip.png?raw=true" alt="project-screenshot" width="" height="">
 
